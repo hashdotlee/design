@@ -1,0 +1,31 @@
+{
+  "data": {
+    "campaign": {
+      "_id": "5127144557053758578",
+      "aff_status": 1,
+      "can_vote": false,
+      "category": "E-COMMERCE",
+      "cookie_duration": 2592000,
+      "custom_epc": "None",
+      "logo": "https://static.accesstrade.vn/adv/img/1609932391_134968237_3833184643445210_8916834940132965281_o.png",
+      "max_commission": "26.4%",
+      "merchant": "lazadacps",
+      "merchant_id": "5127139956446111602",
+      "name": "LAZADA (CPS)",
+      "rejection_time": false,
+      "start_time": "15-05-2019",
+      "stats": {
+        "approval_rate_3months": 0.5060146111454427,
+        "cvr_3months": 0.06773937352161136,
+        "daterange": "01/09/2020 - 01/12/2020",
+        "epc_3months": 297.35418880367,
+        "gross_commission": 447459614.3333333,
+        "total_votes": 49,
+        "value_votes": 171
+      },
+      "type": 3,
+      "url": "https://www.lazada.vn/?utm_source=accesstrade"
+    }
+  },
+  "success": true
+}
